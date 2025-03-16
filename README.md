@@ -4,6 +4,6 @@
 ![Sales Dashboard](TimCooley/PowerBI/Financial Dashboard/Profitability.gif))
 
 ### 🔹 Profitability Dashboard
-![Profitability Dashboard](images/Profitability.gif)
+![Profitability Dashboard](Gifs/Profitability.gif)
 
 Profitability.gif
