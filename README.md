@@ -4,4 +4,3 @@
 ### 🔹 Profitability Dashboard
 ![Profitability Dashboard](Gifs/Profitability.gif)
 
-Profitability.gif
