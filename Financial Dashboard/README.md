@@ -7,5 +7,5 @@ Overview of Profitability by Region
 ### 🔹 Cost Inefficiency Dashboard
 Overview of Major Cost Inefficiency KPIs
 
-### 🔹 IAsia and Europe DashBoard
-Identifying the Asia and Europe Regions as the Weak Link
+### 🔹 Asia and Europe DashBoard
+Identifying the Asia and European regions as the Weak Link
