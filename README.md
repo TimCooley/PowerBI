@@ -1,5 +1,5 @@
 ## 📊 Power BI Dashboards
 
 
-### 🔹 Financial Analysis
+### 🔹 Financial Dashboards
 Analysis of a Struggling Retail Company
