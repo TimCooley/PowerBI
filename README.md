@@ -5,4 +5,4 @@
 ![Profitability Dashboard](Profitability.gif)
 
 
-![Cost](Financial Dashboard/Europe $ Asia Slumping.gif)
+![Cost](Europe $ Asia Slumping.gif)
