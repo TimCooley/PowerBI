@@ -2,5 +2,5 @@
 
 
 ### 🔹 Profitability Dashboard
-![Profitability Dashboard](Financial Dashboard/Profitability.gif)
+![Profitability Dashboard](Profitability.gif)
 
